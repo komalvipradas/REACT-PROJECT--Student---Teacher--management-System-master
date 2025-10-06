@@ -1,1 +1,2 @@
-# REACT-PROJECT--Student---Teacher--management-System-master
+# Student---Teacher--management-System
+React Js / Bootstrap / JQuery
